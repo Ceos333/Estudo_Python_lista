@@ -1,3 +1,5 @@
+##Faça um programa que peça dois números inteiros e imprima a soma desses dois números
+
 somar=True
 while somar !=False:
     x= int(input("informe o primeiro número para ser somado: \n"))
